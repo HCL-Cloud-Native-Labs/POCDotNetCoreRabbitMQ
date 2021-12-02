@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e20bc61c-7c75-4fa6-a8e1-449cf9d8e225": {
+      "ProjectGuid": "e20bc61c-7c75-4fa6-a8e1-449cf9d8e225",
+      "DisplayName": "WorkerService1",
+      "ColorIndex": 0
+    },
+    "9f212d83-51b0-441f-b5ce-7b69acfac416": {
+      "ProjectGuid": "9f212d83-51b0-441f-b5ce-7b69acfac416",
+      "DisplayName": "WorkerService2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
